@@ -1,2 +1,0 @@
-# CursoMaterialUI
-Created with CodeSandbox
